@@ -1,0 +1,183 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: 'Dosis', sans-serif;
+
+}
+
+h1 {
+  font-size: 5rem;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+  color: #5d54a4;
+/*line-height: 2;*/
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Dosis', sans-serif;
+  color: #5d54a4;
+  padding-bottom: 10px;
+  /*font-weight: normal;*/
+}
+
+h3 {
+  font-family: 'Dosis', sans-serif;
+  color: #9d65c9;
+  font-size: 1.5rem;
+}
+p {
+  font-size: 1.2rem;
+  line-height: 2;
+
+}
+hr {
+  border-style: none;
+  border-top: dotted;
+  border-color: #aaaaaa;
+  border-width: 5px;
+  width: 3%;
+  margin: 6.25rem auto;
+
+
+}
+a {/*
+    color: #5d54a4;
+    font-family: 'Dosis', sans-serif;*/
+    margin: 10px 20px;
+    /*text-decoration: none;
+    font-size: 1.25rem;*/
+
+}
+/*a:hover {
+  color: #9d65c9;
+}*/
+
+.top-container {
+  background-color: #c3aed6;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  height: 70px;
+  right: 300px;
+  top: 50px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.middle-container {
+  background-color: #fafcc2;
+  padding: 100px 0;
+}
+
+.bottom-container {
+    background-color: #c3aed6;
+    padding: 50px 0 20px;
+
+
+}
+.tittle{
+    font-size: 1.875rem;
+    font-weight: normal;
+}
+
+.web {
+  text-decoration: underline;
+}
+.lightbulb {
+  margin: 50px;
+}
+
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+
+}
+.sew-image {
+  width: 25%;
+  float: left;
+  margin-right: 20%;
+}
+.coding-image {
+  width: 25%;
+  float: right;
+  margin-left: 20%;
+
+}
+.introductionmyself {
+  width: 40%;
+  margin: auto;
+}
+
+.contact-message {
+  width: 40%;
+  margin: 40px auto 60px;
+}
+
+.btn {
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   height: 1px;
+   line-height: 1px;
+   color: #FFFFFF;
+   font-family: 'Dosis', sans-serif;
+   width: 155px;
+   font-size: 19px;
+   font-weight: 100;
+   padding: 24px;
+   background-color: #5D54A4;
+   text-shadow: 1px 1px 20px #FFFFFF;
+   border: solid #5D54A4 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #5D54A4 1px;
+   background: #DBD9E9;
+   background-image: -webkit-linear-gradient(top, #DBD9E9, #5D54A4);
+   background-image: -moz-linear-gradient(top, #DBD9E9, #5D54A4);
+   background-image: -ms-linear-gradient(top, #DBD9E9, #5D54A4);
+   background-image: -o-linear-gradient(top, #DBD9E9, #5D54A4);
+   background-image: -webkit-gradient(to bottom, #DBD9E9, #5D54A4);
+   -webkit-border-radius: 8px;
+   -moz-border-radius: 8px;
+   border-radius: 8px;
+   text-decoration: none;
+}
+
+.logoPuntoV {
+  width: 80px;
+  height: 80px;
+}
+
+
+
+.Instagram {
+  width: 30px;
+  height: 30px;
+
+}
+
+.PuntoVioleta {
+  margin: 10px 0px;
+
+}
+.copyright {
+  color: white;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
